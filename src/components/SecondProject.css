@@ -1,0 +1,9 @@
+.second-project{
+    background-image: url("../../public/images/img2.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    width: 100vw;
+    height: 100vh;
+    background-color: cadetblue;
+}

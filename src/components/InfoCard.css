@@ -1,0 +1,19 @@
+.info-card{
+    width: 50%;
+    height: 30%;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    background-color: brown;
+    height: 100%;
+    flex: 1 0 0px;
+}
+
+.content {
+    background-color: orange;
+    height: 100%;
+    flex: 3 0 0px;
+}
